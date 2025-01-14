@@ -1,6 +1,6 @@
 # SY키보드 지원 URL
 
-## 개발자 E-Mail
+## 개발자 Email
 seosdh4@gmail.com
 
 ## 키보드 추가 방법
