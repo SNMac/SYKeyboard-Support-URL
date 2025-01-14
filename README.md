@@ -24,3 +24,8 @@ SY키보드 나랏글 자판 ➡️ 시스템 설정 이동 ➡️ 키보드 ➡
 or
 
 설정 앱 ➡️ 일반 ➡️ 키보드 ➡️ 키보드 ➡️ 나랏글 - SY키보드 ➡️ 전체 접근 허용 ON
+
+## 약관
+[이용 약관](https://snmac.notion.site/SY-4aa230aca6224cbbab231d2b382f46ba)
+
+[개인정보 처리방침](https://snmac.notion.site/SY-55bfdf4aa40b412cbc17f14d5810d5c1)
